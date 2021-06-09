@@ -7,30 +7,7 @@ skill_list:
     description: Maybe he's born cool, maybe he's Lucas
 
   - name: Python
-    description: I'm decent with Python, I have a lot of experience with it dating back to high school. It's a cool language.
+    description: It's a cool language. I got my first girlfriend using Python, her name was Chat Bot.
 
   - name: Magic the Gathering
-    description: Fun card game made by Wizards of the Coast. A decidedly cool game and I'm a good player.
-
-#If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
-
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+    description: Fun card game made by Wizards of the Coast. A decidedly cool game and I'm a good player. I got my second girlfriend in Magic, her name was Liliana Vess.
