@@ -1,16 +1,16 @@
-header: Say something about what you're good at
+header: I'm good at being cool
 
-subheader: Give some more context
+subheader: It's kind of just natural I don't know
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Being cool
+    description: Maybe he's born cool, maybe he's Lucas
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Python
+    description: I'm decent with Python, I have a lot of experience with it dating back to high school. It's a cool language.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Magic the Gathering
+    description: Fun card game made by Wizards of the Coast. A decidedly cool game and I'm a good player.
 
 #If you have certifications, talk about them here
 certifications:

@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Cool Pokemon Data
+  description: A data science project in which I explored interesting stats about Pokemon types. Used R. It was cool.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Biologically Inspired Algorithms
+  description: A cool physics project where my professor and I looked at data resulting from biologically inspired algorithms. 
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: Cool Web Server Exploration
+  description: A project where we automated a program to send HTTP requests to a variety of cool webservers and inspected the responses we got back.
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Hat Game
+  description: A coolish project I made many years ago that was supposed to be a straightforward traditional RPG. Unfinished unfortunately.
